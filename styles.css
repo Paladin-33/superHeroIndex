@@ -1,0 +1,17 @@
+html{
+    height: 100%;
+    font-family: 'Readex Pro', sans-serif;
+}
+
+body{
+   
+    margin: 0;
+    background-color: black;
+    height: 100%;
+}
+
+.all{
+    height: 100%;
+    display: grid;
+    grid-template-columns: 4fr 6fr;
+}
