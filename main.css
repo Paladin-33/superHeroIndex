@@ -16,7 +16,7 @@
 }
 .util{
    
-    width: 40em;
+    width: 45em;
     display: grid;
     grid-template-columns: 2fr 1fr 2fr;
     grid-column-gap: 1em;
@@ -51,6 +51,7 @@
     border-radius: 20px;
     padding: .5em 1em .5em 1em ;
     font-weight: 500;
+    font:inherit;
 }
 
 #heroInput{
